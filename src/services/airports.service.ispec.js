@@ -12,6 +12,7 @@ describe('[Int] That Airports Service', () => {
         const airport = airports.getByCode(code);
         expect(airport.code).toBeTruthy();
         expect(airport.city).toBeTruthy();
+        // comment
     });
 
     it.each(['SEA', 'BCN', 'HNL', 'CDG', 'NAR', 'LHR', 'SIN'])('exists airport with code %s (used by deals)', (code) => {
