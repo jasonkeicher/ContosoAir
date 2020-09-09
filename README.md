@@ -1,5 +1,6 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+
+[![Build Status](https://dev.azure.com/jasonkeicher/DevOpsLabs-GH/_apis/build/status/jasonkeicher.ContosoAir?branchName=master)](https://dev.azure.com/jasonkeicher/DevOpsLabs-GH/_build/latest?definitionId=66&branchName=master)
 
 # Microsoft.Github CI Demo
 
