@@ -1,6 +1,8 @@
 
-
 [![Build Status](https://dev.azure.com/jasonkeicher/DevOpsLabs-GH/_apis/build/status/jasonkeicher.ContosoAir?branchName=master)](https://dev.azure.com/jasonkeicher/DevOpsLabs-GH/_build/latest?definitionId=66&branchName=master)
+
+https://dev.azure.com/jasonkeicher/DevOpsLabs-GH/_apis/build/status/jasonkeicher.ContosoAir?branchName=master
+
 
 # Microsoft.Github CI Demo
 
