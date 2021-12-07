@@ -23,7 +23,7 @@ npm install
 SET %COSMOS_DB_NAME%=<azure_web_site>
 SET %COSMOS_DB_AUTH_KEY%=<cosmos_auth_key>
 npm start
-```
+```ddd
 
 This will run locally the server and attach to the CosmosDb Endpoint using mongodb connection string.
 
