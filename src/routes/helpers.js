@@ -13,7 +13,7 @@ const secured = function (req, res, next) {
 
     return res.redirect('/login');
 }
-
+// kkkk
 module.exports = {
     encodeData,
     secured
