@@ -2,7 +2,7 @@
 
 change 
 
-Demo website application for Contoso Air.  ch
+Demo website application for Contoso Air.  change
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
 ## Requirements
